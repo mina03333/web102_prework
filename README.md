@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/nGEL21D' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mina03333/web102_prework/blob/main/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
